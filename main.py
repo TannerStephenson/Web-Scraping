@@ -54,7 +54,7 @@ def about():
     print()
     print("Hi, my name is Tanner Stephenson.")
     print()
-    print("I am just testing out python's web scraping capabilities.")
+    print("This is a test for python's web scraping capabilities.")
     print("I'm using http://quotes.toscrape.com/ for this test program")
     print()
 
